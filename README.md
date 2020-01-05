@@ -11,8 +11,13 @@ Underline 2
 ===========
 
 Letra *italica* 1
+
 Letra _italica_ 2
+
 Formato **Negrilla**
+
 Formato __Negrilla__
+
 Formato ~~Tachado~~ 
+
 Formato ~Bajo~

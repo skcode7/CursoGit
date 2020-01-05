@@ -68,3 +68,11 @@ REFERENCES "forum" ("id");
 insert into "topic" ("forum_id", "subject")
 values (2, 'D''artagnian');
 ```
+
+# Tablas
+| Nombre | Apellido | Ciudad |
+| -|-|-|
+|Carlos|Encalada|Quito
+|Juan|Perez|Cuenca
+
+

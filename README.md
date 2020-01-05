@@ -21,3 +21,9 @@ Formato __Negrilla__
 Formato ~~Tachado~~ 
 
 Formato ~Bajo~
+
+# Listas
+1. Item 1
+2. Item 2
+
+- Item lista

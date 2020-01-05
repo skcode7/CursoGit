@@ -75,4 +75,26 @@ values (2, 'D''artagnian');
 |Carlos|Encalada|Quito
 |Juan|Perez|Cuenca
 
+# Citas
+Ejemplo de cita:
+> Esto es una cita
+
+Otro texto
+> Otra cita
+
+# Linea Horizontal
+Con guion
+
+---
+Con asterisco
+
+***
+Con guion bajo
+
+___
+
+# Salo de Linea
+Esto es un parrafo
+
+Este es otro parrafo
 
